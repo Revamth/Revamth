@@ -26,14 +26,6 @@
 
 ---
 
-### 📈 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revamth&theme=github-dark-blue" />
-</p>
-
----
-
 ### 💼 Projects I'm Proud Of
 
 - 🌍 **WanderView**: A location-based travel experience app that fetches nearby places using LocationIQ API and shows them beautifully on the frontend. Built with Node.js backend and React frontend.  
