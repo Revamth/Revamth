@@ -34,9 +34,6 @@
 - 🎯 **Netflix-GPT**: ChatGPT-powered movie recommender using TMDB APIs  
   🔗 [View Project](https://github.com/revamth/netflix-gpt)
 
-- 📄 **PDF QA App**: Full-stack app using LangChain.js, Node.js backend  
-  🔗 [Coming soon...]
-
 ### 📬 Connect with Me
 
 <p>
